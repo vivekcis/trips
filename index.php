@@ -13,7 +13,7 @@
 //  * legal action against anyone who broke our terms, respect this product *
 //  * Thank you.                                                            *
 // *************************************************************************/
-
+// HMM
 error_reporting(E_ALL | E_WARNING | E_NOTICE);
 ini_set('display_errors', 1);
 ini_set('display_startup_errors',1);
